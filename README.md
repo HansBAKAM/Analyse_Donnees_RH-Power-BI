@@ -1,6 +1,6 @@
 # Analyse_Donnees_RH
 
-📊 Analyse des Données RH d'une entreprise comptant 1500 employés et Création de Tableaux de Bord
+📊 Analyse des Données RH d'une entreprise et Création de Tableaux de Bord. Etude de cas: Promotion et Licenciement.
 
 🎯 Compréhension des Attentes
 Dans le cadre d'un projet d’optimisation des ressources humaines, j'ai pris le temps de comprendre les enjeux et les attentes liés à cette problématique. Mon objectif était de fournir des indicateurs de performances et des insights pertinents pour guider les décisions stratégiques du service RH.
